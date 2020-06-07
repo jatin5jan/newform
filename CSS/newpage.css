@@ -2,10 +2,11 @@ body{
     background-color: rgb(151, 96, 198);
 
 }
+html { font-size: 2rem; }
 .mainclass{
 
     margin-top: 200px;
-    height: 7550px;
+    height: 9450px;
     width: 65%;
     margin: 10% auto;   
     background-color: white;
@@ -58,7 +59,7 @@ body{
        
     
             margin-top: 200px;
-            height: 7300px;
+            height: 8550px;
             width: 85%;
             margin: 10% auto;   
             background-color: white;
