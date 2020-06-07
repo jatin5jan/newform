@@ -52,6 +52,61 @@ body{
 }
 
 
+
+@media(max-width:1024px){
+    .mainclass{
+       
+    
+            margin-top: 200px;
+            height: 5200px;
+            width: 85%;
+            margin: 10% auto;   
+            background-color: white;
+            border-radius: 15px;
+            border: 1px solid white;
+            box-shadow: 0 0 5px white;
+       
+    }
+    
+    
+    .hero{
+        
+        width: 100%;
+    }
+    .project{
+        width:100%;
+    }
+    .team{
+        width:100%;
+    
+    }
+    .testimonial{
+        width: 100%;
+    }
+    .contact{
+    
+        width:100%;
+      
+    }
+    .header{
+        width: 100%;
+        height: 75px;
+    }
+    .footer{
+        width: 100%;
+        height: 200px; 
+       
+    }
+    .button{
+        width:90px;
+    }
+    
+    }
+    
+
+
+
+
 @media(max-width:768px){
 .mainclass{
    
